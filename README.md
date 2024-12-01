@@ -1,4 +1,4 @@
-SisCOe
+SisCoe
 
 Este Projeto visa a implementação de um Sistema de Cadastro de Funcionarios Militares e a gestão completa deles.
 
